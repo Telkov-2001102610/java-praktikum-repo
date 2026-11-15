@@ -9,8 +9,8 @@ public class App {
 
     }
 
-    public static Integer multiplication (Integer a, Integer b, Integer c) {
-        return a + b + c;
+    public static Integer multiplication (Integer a, Integer b, Integer c, Integer d) {
+        return a + b + c + d;
     }
 
 }
