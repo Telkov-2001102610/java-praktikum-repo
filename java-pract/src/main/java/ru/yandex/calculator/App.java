@@ -14,8 +14,8 @@ public class App {
         return a + b + c + d;
     }
 
-    public static Integer division (Integer a, Integer b, Integer c) {
-        return a / b / c;
+    public static Integer division (Integer a, Integer b, Integer y) {
+        return a / b / y;
     }
 
 }
