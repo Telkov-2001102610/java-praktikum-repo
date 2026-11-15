@@ -3,7 +3,7 @@ package ru.yandex.calculator;
 public class App {
     public static void main(String[] args) {
 
-        System.out.println(multiplication(22, 10, 10, 30));
+        System.out.println(multiplication(23, 10, 10, 30));
         System.out.println(division(20, 10, 10));
 
 
